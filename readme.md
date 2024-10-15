@@ -1,5 +1,6 @@
 # End-to-End Multi-AI Agent System with LangGraph, AstraDB, and Llama 3.1
-![image](https://github.com/user-attachments/assets/c099a752-0e13-43e2-8148-ad0b5daa46e3)
+<img width="681" alt="Screenshot 2024-10-14 at 9 49 07 PM" src="https://github.com/user-attachments/assets/ea3e99a5-54c6-457b-8fff-fd91dacc2351">
+
 
 ## Project Overview
 
